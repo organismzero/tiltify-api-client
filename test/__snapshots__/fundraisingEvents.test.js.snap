@@ -1,0 +1,156 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`fundraising event tests - correct Tiltify fundraising event leaderboards returned 1`] = `
+Object {
+  "individual": Any<Array>,
+  "team": Any<Array>,
+  "weekly": Any<Array>,
+}
+`;
+
+exports[`fundraising event tests - correct Tiltify fundraising event returned 1`] = `
+Object {
+  "avatar": Object {
+    "alt": "",
+    "height": 64,
+    "src": "https://assets.tiltify.com/uploads/fundraising_event/avatar/136/playlive-avatar-1553962049542.jpg",
+    "width": 64,
+  },
+  "banner": Object {
+    "alt": "",
+    "height": 530,
+    "src": "https://assets.tiltify.com/uploads/fundraising_event/banner/136/playlive-banner-1553961594251.jpg",
+    "width": 1440,
+  },
+  "causeId": 35,
+  "contactEmail": "playlive@stjude.org",
+  "description": "Sign up to create your own campaign and start fundraising. Play and stream your favorite video games to raise donations and unlock exclusive loot.
+
+### Play For More Than Bragging Rights
+
+St. Jude has helped push the childhood cancer survival rate from less than 20% when we opened to 80% today. We won’t stop until no child dies from cancer.
+
+### [Click here to find out more!](https://goo.gl/eYovUq)",
+  "endsAt": "2020-03-31",
+  "fundraiserGoalAmount": 2000000,
+  "id": 136,
+  "image": Object {
+    "alt": "",
+    "height": 360,
+    "src": "https://assets.tiltify.com/uploads/fundraising_event/image/136/playlive-image-1553961729635.jpg",
+    "width": 640,
+  },
+  "logo": Object {
+    "alt": "",
+    "height": 64,
+    "src": "https://assets.tiltify.com/uploads/fundraising_event/logo/136/playlive-logo-1553961912243.png",
+    "width": 100,
+  },
+  "message": "### Welcome to the 2019 St. Jude PLAY LIVE Prize Season!
+
+Fundraising kicks off on Friday, April 26. Right now set up your fundraising page & start spreading the word! 
+
+[Click here](https://goo.gl/RKwlV2) to find out about this year’s prizes from our sponsors!
+
+Don’t forget that you can integrate your Tiltify account with Stream Labs or StreamJar to get access to stream overlays. [Find out more here](http://bit.ly/2dIhfqc).
+
+Follow @stjudeplaylive for more tips and info!",
+  "name": "St. Jude PLAY LIVE 2019",
+  "parent": Object {
+    "id": 39,
+    "name": "St. Jude PLAY LIVE",
+    "slug": "playlive",
+  },
+  "settings": Object {
+    "colors": Object {
+      "background": "#000000",
+      "highlight": "#bf0d3e",
+    },
+    "headerIntro": "Start a campaign, play games, raise funds, win prizes and help kids battling childhood cancer.",
+    "headerTitle": "St. Jude PLAY LIVE",
+    "registrationFields": Object {
+      "address": Object {
+        "enabled": true,
+        "position": 0,
+        "required": true,
+      },
+      "dateOfBirth": Object {
+        "enabled": true,
+        "position": 6,
+        "required": true,
+      },
+      "phoneNumber": Object {
+        "enabled": true,
+        "position": 5,
+        "required": true,
+      },
+      "serviceHours": Object {
+        "enabled": false,
+        "position": 2,
+        "required": false,
+      },
+      "shirtSize": Object {
+        "enabled": true,
+        "position": 1,
+        "required": true,
+      },
+    },
+    "visibilityOptions": Object {
+      "donate": Object {
+        "visible": true,
+      },
+      "donorLeaderboard": Object {
+        "visible": true,
+      },
+      "endsAt": Object {
+        "visible": true,
+      },
+      "fundraiserGoalAmount": Object {
+        "type": "BOTH",
+        "visible": true,
+      },
+      "goal": Object {
+        "visible": true,
+      },
+      "individualLeaderboard": Object {
+        "heat": true,
+        "type": "ALL",
+        "visible": true,
+      },
+      "preventDonationsBeforeStart": Object {
+        "visible": false,
+      },
+      "raised": Object {
+        "visible": true,
+      },
+      "regions": Object {
+        "visible": true,
+      },
+      "registration": Object {
+        "visible": true,
+      },
+      "startsAt": Object {
+        "visible": true,
+      },
+      "sustainedGiving": Object {
+        "visible": true,
+      },
+      "sustainedGivingStats": Object {
+        "visible": false,
+      },
+      "teamLeaderboard": Object {
+        "heat": true,
+        "type": "ALL",
+        "visible": true,
+      },
+    },
+  },
+  "shortDescription": "St. Jude PLAY LIVE is where gamers can help the kids of St. Jude Children’s Research Hospital by doing what they love-playing video games. Sign-up, set a goal, earn awesome prizes today!",
+  "slug": "st-jude-play-live-2019",
+  "startsAt": "2019-04-01",
+  "status": "retired",
+  "total_amount_raised": Any<Number>,
+  "type": "FundraisingEvent",
+  "video": "https://www.youtube.com/watch?v=kSqVRLA75co",
+}
+`;

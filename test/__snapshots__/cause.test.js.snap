@@ -1,0 +1,684 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`cause tests - correct Tiltify cause fundraising events returned 1`] = `
+Object {
+  "avatar": Object {
+    "alt": "alt",
+    "height": 64,
+    "src": "https://assets.tiltify.com/uploads/cause/avatar/35/blob-69ddc696-2034-4d43-b6e0-dc7049f035fe.png",
+    "width": 64,
+  },
+  "cause_id": "400f5687-6017-4d1a-a4d9-7c9166b984c2",
+  "currency_code": "USD",
+  "description": "ONE COMMUNITY. ONE VOICE. ONE CAUSE.
+War never changes. But hope? Hope can save a life. Fallout For Hope was born in 2020 as a global charity initiative to mobilize an entire community of gamers worldwide to support the lifesaving mission of St. Jude Children's Research Hospital: Finding Cures. Saving Children.®
+
+- **[LEARN MORE](https://falloutforhope.com/)**
+- **[WATCH THE STREAMS](https://www.twitch.tv/team/falloutforhope)**
+-**[REGISTER FOR THE TEAM](https://falloutforhope.com/join/)**
+-**[MERCH](https://www.designbyhumans.com/shop/falloutforhope2021/)**
+
+**Main Stage Event Schedule:**
+Watch [here](https://www.twitch.tv/chadfallout76podcast).
+- 12/5 – JunkaShine Run (6pm EST to 8pm EST)
+- 12/9 – Dweller Drop (5pm EST to 7pm EST)
+- 12/10 – Wasteland Arena (5pm EST to 9pm EST)
+- 12/11 – Whose Apocalypse Is It Anyway? (5pm EST to 7pm EST)
+- 12/12 – Apocalypse Squares (6pm EST to 8pm EST)
+- 12/15– New Vegas Casino Night (6pm EST to 8pm EST)
+- 12/17 – A Christmas Carol (6pm EST to 8pm EST)",
+  "ends_at": "2022-01-01",
+  "goal": Object {
+    "currency": "USD",
+    "value": "100000",
+  },
+  "id": "f6d18a9a-239d-4149-9473-a144604a71a6",
+  "inserted_at": "2021-09-28T15:42:52Z",
+  "legacy_id": 6,
+  "name": "Fallout for Hope 2021",
+  "published_at": "2021-12-19T20:12:20Z",
+  "retired_at": "2022-04-01T14:35:19Z",
+  "slug": "fallout-for-hope-2021",
+  "starts_at": "2021-10-01",
+  "status": "retired",
+  "total_amount_raised": Any<Object>,
+  "updated_at": "2022-04-01T14:35:19Z",
+  "url": "https://tiltify.com/st-jude-children-s-research-hospital/fallout-for-hope-2021",
+}
+`;
+
+exports[`cause tests - correct Tiltify cause fundraising events returned 2`] = `
+Object {
+  "avatar": Object {
+    "alt": "alt",
+    "height": 64,
+    "src": "https://assets.tiltify.com/uploads/fundraising_event/avatar/728/blob-52a4e3b7-191a-4f56-9882-4328d45814e6.png",
+    "width": 64,
+  },
+  "cause_id": "400f5687-6017-4d1a-a4d9-7c9166b984c2",
+  "currency_code": "USD",
+  "description": null,
+  "ends_at": "2022-01-01",
+  "goal": null,
+  "id": "e4454277-a75b-4223-a5c0-4d0bce25a3e3",
+  "inserted_at": "2021-06-21T15:28:36Z",
+  "legacy_id": 588,
+  "name": "Build Against Cancer 2021",
+  "published_at": "2022-04-01T14:37:45Z",
+  "retired_at": null,
+  "slug": "build-against-cancer-2021-c4162355-9c96-4ba3-8b10-81f9d628dc25",
+  "starts_at": null,
+  "status": "published",
+  "total_amount_raised": Any<Object>,
+  "updated_at": "2022-04-01T14:37:45Z",
+  "url": "https://tiltify.com/st-jude-children-s-research-hospital/build-against-cancer-2021-c4162355-9c96-4ba3-8b10-81f9d628dc25",
+}
+`;
+
+exports[`cause tests - correct Tiltify cause fundraising events returned 3`] = `
+Object {
+  "avatar": Object {
+    "alt": "alt",
+    "height": 64,
+    "src": "https://assets.tiltify.com/uploads/cause/avatar/35/blob-69ddc696-2034-4d43-b6e0-dc7049f035fe.png",
+    "width": 64,
+  },
+  "cause_id": "400f5687-6017-4d1a-a4d9-7c9166b984c2",
+  "currency_code": "USD",
+  "description": null,
+  "ends_at": "2021-08-07",
+  "goal": Object {
+    "currency": "USD",
+    "value": "10000",
+  },
+  "id": "35ee9b61-1f5c-446f-8d43-138bb5a48248",
+  "inserted_at": "2021-07-21T20:31:37Z",
+  "legacy_id": 615,
+  "name": "PGA TOUR 2K21 Golf Fore Good",
+  "published_at": "2021-09-30T21:16:53Z",
+  "retired_at": "2022-04-01T14:36:29Z",
+  "slug": "pga2k-golf-fore-good-6897a5d5-e11d-4f45-a910-2919ebd077d6",
+  "starts_at": "2021-08-03",
+  "status": "retired",
+  "total_amount_raised": Any<Object>,
+  "updated_at": "2022-04-01T14:36:29Z",
+  "url": "https://tiltify.com/st-jude-children-s-research-hospital/pga2k-golf-fore-good-6897a5d5-e11d-4f45-a910-2919ebd077d6",
+}
+`;
+
+exports[`cause tests - correct Tiltify cause fundraising events returned 4`] = `
+Object {
+  "avatar": Object {
+    "alt": "alt",
+    "height": 64,
+    "src": "https://assets.tiltify.com/uploads/cause/avatar/35/blob-69ddc696-2034-4d43-b6e0-dc7049f035fe.png",
+    "width": 64,
+  },
+  "cause_id": "400f5687-6017-4d1a-a4d9-7c9166b984c2",
+  "currency_code": "USD",
+  "description": null,
+  "ends_at": "2021-10-01",
+  "goal": null,
+  "id": "709bd1a1-60f9-405c-9268-710d39c469b1",
+  "inserted_at": "2021-08-05T16:58:41Z",
+  "legacy_id": 936,
+  "name": "CausePlay IRL",
+  "published_at": "2021-09-30T21:16:55Z",
+  "retired_at": "2022-04-01T14:35:50Z",
+  "slug": "causeplay-irl-ffb7c076-94ea-4b90-a272-f1821fc2b09b",
+  "starts_at": null,
+  "status": "retired",
+  "total_amount_raised": Any<Object>,
+  "updated_at": "2022-04-01T14:35:50Z",
+  "url": "https://tiltify.com/st-jude-children-s-research-hospital/causeplay-irl-ffb7c076-94ea-4b90-a272-f1821fc2b09b",
+}
+`;
+
+exports[`cause tests - correct Tiltify cause fundraising events returned 5`] = `
+Object {
+  "avatar": Object {
+    "alt": "alt",
+    "height": 64,
+    "src": "https://assets.tiltify.com/uploads/fundraising_event/avatar/608/playlive-avatar-1553962049542.jpg",
+    "width": 64,
+  },
+  "cause_id": "400f5687-6017-4d1a-a4d9-7c9166b984c2",
+  "currency_code": "USD",
+  "description": "Sign up to create your own campaign and start fundraising. Play and stream your favorite video games to raise donations and unlock exclusive loot.
+
+### Play For More Than Bragging Rights
+
+St. Jude has helped push the childhood cancer survival rate from less than 20% when we opened to 80% today. We won’t stop until no child dies from cancer.
+
+### [Click here to find out more!](https://goo.gl/eYovUq)",
+  "ends_at": "2022-03-31",
+  "goal": Object {
+    "currency": "USD",
+    "value": "4000000",
+  },
+  "id": "2dee34bd-a509-47bf-9107-e407961a7e6b",
+  "inserted_at": "2021-02-23T19:52:33Z",
+  "legacy_id": 1187,
+  "name": "St. Jude PLAY LIVE 2021",
+  "published_at": "2022-03-14T15:27:01Z",
+  "retired_at": "2022-04-01T04:59:51Z",
+  "slug": "playlive2021",
+  "starts_at": "2021-04-01",
+  "status": "retired",
+  "total_amount_raised": Any<Object>,
+  "updated_at": "2022-04-01T04:59:51Z",
+  "url": "https://tiltify.com/st-jude-children-s-research-hospital/playlive2021",
+}
+`;
+
+exports[`cause tests - correct Tiltify cause fundraising events returned 6`] = `
+Object {
+  "avatar": Object {
+    "alt": "alt",
+    "height": 64,
+    "src": "https://assets.tiltify.com/uploads/fundraising_event/avatar/864/blob-1fc80eb7-5021-4b1a-adb3-bcbaa467896c.png",
+    "width": 64,
+  },
+  "cause_id": "400f5687-6017-4d1a-a4d9-7c9166b984c2",
+  "currency_code": "USD",
+  "description": "- St. Jude Children’s Research Hospital is leading the way the world understands, treats and defeats childhood cancer and other life-threatening diseases. Our mission is clear: Finding cures. Saving children.®
+- Families never receive a bill from St. Jude for treatment, travel, housing or food – so they can focus on helping their child live.
+- Treatments invented at St. Jude have helped increase the overall childhood cancer survival rate from 20% to more than 80% since we opened more than 50 years ago. We won’t stop until no child dies from cancer.
+- St. Jude shares the breakthroughs it makes, and every child saved at St. Jude means doctors and scientists worldwide can use that knowledge to save thousands more children.
+- Unlike other hospitals, the majority of funding for St. Jude comes from generous donors.",
+  "ends_at": "2022-04-04",
+  "goal": Object {
+    "currency": "USD",
+    "value": "100000",
+  },
+  "id": "b591c6de-76c4-4164-9c7d-ee28ce82df03",
+  "inserted_at": "2021-10-15T20:20:48Z",
+  "legacy_id": 119047,
+  "name": "St. Jude Kick-Off Challenge",
+  "published_at": "2022-04-01T14:37:12Z",
+  "retired_at": null,
+  "slug": "st-jude-kick-off-challenge-218d3933-4162-46f3-8460-2be5fb12f48b",
+  "starts_at": "2021-10-22",
+  "status": "published",
+  "total_amount_raised": Any<Object>,
+  "updated_at": "2022-04-01T14:37:12Z",
+  "url": "https://tiltify.com/st-jude-children-s-research-hospital/st-jude-kick-off-challenge-218d3933-4162-46f3-8460-2be5fb12f48b",
+}
+`;
+
+exports[`cause tests - correct Tiltify cause fundraising events returned 7`] = `
+Object {
+  "avatar": Object {
+    "alt": "alt",
+    "height": 64,
+    "src": "https://assets.tiltify.com/uploads/fundraising_event/avatar/895/blob-3c5f3cce-e32d-444c-a144-4867915940a1.jpeg",
+    "width": 64,
+  },
+  "cause_id": "400f5687-6017-4d1a-a4d9-7c9166b984c2",
+  "currency_code": "USD",
+  "description": "GCX is a community-based, charity event. A large community of like-hearted gamers coming together to make the world a better place. Grown at the roots in the Destiny community, we have grown and continue to grow the community, in hopes of creating a larger charitable footprint for years to come.",
+  "ends_at": "2022-12-01",
+  "goal": Object {
+    "currency": "USD",
+    "value": "3000000",
+  },
+  "id": "e03cd314-352a-424d-8154-b2c56cbae03c",
+  "inserted_at": "2021-11-03T18:09:59Z",
+  "legacy_id": 122150,
+  "name": "GCX 2022",
+  "published_at": "2021-12-07T18:16:37Z",
+  "retired_at": "2023-06-07T15:28:40Z",
+  "slug": "gcx-2022",
+  "starts_at": null,
+  "status": "retired",
+  "total_amount_raised": Any<Object>,
+  "updated_at": "2023-06-07T15:28:40Z",
+  "url": "https://tiltify.com/st-jude-children-s-research-hospital/gcx-2022",
+}
+`;
+
+exports[`cause tests - correct Tiltify cause fundraising events returned 8`] = `
+Object {
+  "avatar": Object {
+    "alt": "alt",
+    "height": 64,
+    "src": "https://assets.tiltify.com/uploads/fundraising_event/avatar/1068/blob-58aa7127-7374-46d9-9fa1-71c0bce66c78.png",
+    "width": 64,
+  },
+  "cause_id": "400f5687-6017-4d1a-a4d9-7c9166b984c2",
+  "currency_code": "USD",
+  "description": "Sign up to create your own campaign and start fundraising for St. Jude kids anytime.
+
+- St. Jude Children’s Research Hospital is leading the way the world understands, treats and defeats childhood cancer and other life-threatening diseases. Our mission is clear: Finding cures. Saving children. ®
+- Families never receive a bill from St. Jude for treatment, travel, housing or food – so they can focus on helping their child live.
+- Treatments invented at St. Jude have helped increase the overall childhood cancer survival rate from 20% to more than 80% since we opened more than 50 years ago. We won’t stop until no child dies from cancer.
+
+Connect with other fundraisers and access resources in our [Discord](https://discord.gg/stjudeplaylive).",
+  "ends_at": "2023-03-31",
+  "goal": Object {
+    "currency": "USD",
+    "value": "4500000",
+  },
+  "id": "1fad1368-c32b-406d-8128-5f2990739347",
+  "inserted_at": "2022-03-14T15:23:21Z",
+  "legacy_id": 142555,
+  "name": "St. Jude PLAY LIVE 2022",
+  "published_at": "2022-04-07T18:55:18Z",
+  "retired_at": "2023-04-01T04:54:31Z",
+  "slug": "playlive2022",
+  "starts_at": "2022-04-01",
+  "status": "retired",
+  "total_amount_raised": Any<Object>,
+  "updated_at": "2023-04-01T04:54:31Z",
+  "url": "https://tiltify.com/st-jude-children-s-research-hospital/playlive2022",
+}
+`;
+
+exports[`cause tests - correct Tiltify cause fundraising events returned 9`] = `
+Object {
+  "avatar": Object {
+    "alt": "alt",
+    "height": 64,
+    "src": "https://assets.tiltify.com/uploads/cause/avatar/35/blob-69ddc696-2034-4d43-b6e0-dc7049f035fe.png",
+    "width": 64,
+  },
+  "cause_id": "400f5687-6017-4d1a-a4d9-7c9166b984c2",
+  "currency_code": "USD",
+  "description": "Sign up to create your own Crowd Control campaign and start fundraising for St. Jude kids anytime.
+
+- St. Jude Children’s Research Hospital is leading the way the world understands, treats and defeats childhood cancer and other life-threatening diseases. Our mission is clear: Finding cures. Saving children. ®
+- Families never receive a bill from St. Jude for treatment, travel, housing or food – so they can focus on helping their child live.
+- Treatments invented at St. Jude have helped increase the overall childhood cancer survival rate from 20% to more than 80% since we opened more than 50 years ago. We won’t stop until no child dies from cancer.
+
+Connect with other fundraisers and access resources in our [Discord](https://discord.gg/stjudeplaylive).
+
+Learn more about setting up Crowd Control [here](https://info.tiltify.com/support/solutions/articles/43000573248-integrate-crowd-control).",
+  "ends_at": "2023-03-31",
+  "goal": null,
+  "id": "3aeea2b5-2487-43fd-bebe-b441ddfe71db",
+  "inserted_at": "2022-07-06T18:00:11Z",
+  "legacy_id": 158116,
+  "name": "Crowd Control for St. Jude",
+  "published_at": "2022-07-22T14:26:25Z",
+  "retired_at": null,
+  "slug": "crowd-control-for-st-jude",
+  "starts_at": "2022-07-22",
+  "status": "published",
+  "total_amount_raised": Any<Object>,
+  "updated_at": "2023-01-03T17:08:32Z",
+  "url": "https://tiltify.com/st-jude-children-s-research-hospital/crowd-control-for-st-jude",
+}
+`;
+
+exports[`cause tests - correct Tiltify cause fundraising events returned 10`] = `
+Object {
+  "avatar": Object {
+    "alt": "alt",
+    "height": 64,
+    "src": "https://assets.tiltify.com/uploads/cause/avatar/35/blob-69ddc696-2034-4d43-b6e0-dc7049f035fe.png",
+    "width": 64,
+  },
+  "cause_id": "400f5687-6017-4d1a-a4d9-7c9166b984c2",
+  "currency_code": "USD",
+  "description": "Join the Relay FM community to support the lifesaving mission of St. Jude Children’s Research Hospital: Finding cures. Saving children.®
+
+Donors who make an individual gift of $60+ or $100+ will receive limited-time Relay FM rewards. See if your employer also [offers a matching gift program here](https://www.stjude.org/get-involved/workplace-giving/matching-gifts.html). After requesting a match or DAF distribution, [fill out this form](https://relay.dev.experience.stjude.org/relay-form/) to have the gift credited to the Relay FM campaign.
+
+You can also start your own fundraising campaign anytime through September 30 under our Relay FM Community Challenge and earn exclusive Relay FM merch incentives.",
+  "ends_at": "2022-10-31",
+  "goal": Object {
+    "currency": "USD",
+    "value": "494840.18",
+  },
+  "id": "8f4e607c-a117-4c11-9172-23d19c1be96c",
+  "inserted_at": "2022-08-02T18:07:05Z",
+  "legacy_id": 160454,
+  "name": "Relay FM for St. Jude 2022",
+  "published_at": "2022-08-02T18:32:53Z",
+  "retired_at": "2022-10-03T16:02:12Z",
+  "slug": "relay-fm-for-st-jude-2022",
+  "starts_at": "2022-08-02",
+  "status": "retired",
+  "total_amount_raised": Any<Object>,
+  "updated_at": "2022-10-03T16:02:12Z",
+  "url": "https://tiltify.com/st-jude-children-s-research-hospital/relay-fm-for-st-jude-2022",
+}
+`;
+
+exports[`cause tests - correct Tiltify cause fundraising events returned 11`] = `
+Object {
+  "avatar": Object {
+    "alt": "alt",
+    "height": 64,
+    "src": "https://assets.tiltify.com/uploads/cause/avatar/35/blob-69ddc696-2034-4d43-b6e0-dc7049f035fe.png",
+    "width": 64,
+  },
+  "cause_id": "400f5687-6017-4d1a-a4d9-7c9166b984c2",
+  "currency_code": "USD",
+  "description": "September is Childhood Cancer Awareness Month and everyone is invited to join in our global event to support the incredible work done by St Jude Children's Research Hospital that is shared freely with the world to cure childhood cancer. St. Jude won't stop until no child dies from cancer.
+
+Learn more about Childhood Cancer Awareness Month [here](https://www.stjude.org/get-involved/other-ways/childhood-cancer-awareness-month.html).",
+  "ends_at": "2022-11-01",
+  "goal": null,
+  "id": "abcb316d-594a-4aef-ad09-e3a40b0b0a30",
+  "inserted_at": "2022-08-15T14:58:35Z",
+  "legacy_id": 161327,
+  "name": "Childhood Cancer Awareness Month",
+  "published_at": "2022-08-15T15:01:29Z",
+  "retired_at": "2022-10-03T15:48:27Z",
+  "slug": "st-jude-childhood-cancer-awareness-month-61ce57fd-4ce1-431b-90f1-3f06ee8f84d6",
+  "starts_at": "2022-08-15",
+  "status": "retired",
+  "total_amount_raised": Any<Object>,
+  "updated_at": "2022-10-03T15:48:27Z",
+  "url": "https://tiltify.com/st-jude-children-s-research-hospital/st-jude-childhood-cancer-awareness-month-61ce57fd-4ce1-431b-90f1-3f06ee8f84d6",
+}
+`;
+
+exports[`cause tests - correct Tiltify cause fundraising events returned 12`] = `
+Object {
+  "avatar": Object {
+    "alt": "alt",
+    "height": 64,
+    "src": "https://assets.tiltify.com/uploads/cause/avatar/35/blob-69ddc696-2034-4d43-b6e0-dc7049f035fe.png",
+    "width": 64,
+  },
+  "cause_id": "400f5687-6017-4d1a-a4d9-7c9166b984c2",
+  "currency_code": "USD",
+  "description": "Trainers Unite is a week long event to raise money for charity. This year it takes place from September 4th to September 10th. All content creators are invited to join while raising money for St. Jude Children's Research Hospital.
+
+Follow along and watch on the official Twitch channel [here](https://www.twitch.tv/pokethon).
+
+Go [here](https://trainersunite.net/#dashboard) for more info, assets, and a full schedule.",
+  "ends_at": "2022-09-14",
+  "goal": Object {
+    "currency": "USD",
+    "value": "25000",
+  },
+  "id": "1e6cb485-e212-49a4-bac5-6ff0bd4e2b0e",
+  "inserted_at": "2022-08-17T17:43:09Z",
+  "legacy_id": 161481,
+  "name": "Trainers Unite 2022",
+  "published_at": "2022-08-17T17:59:56Z",
+  "retired_at": null,
+  "slug": "trainers-unite-2022",
+  "starts_at": "2022-08-18",
+  "status": "published",
+  "total_amount_raised": Any<Object>,
+  "updated_at": "2022-09-11T00:55:10Z",
+  "url": "https://tiltify.com/st-jude-children-s-research-hospital/trainers-unite-2022",
+}
+`;
+
+exports[`cause tests - correct Tiltify cause fundraising events returned 13`] = `
+Object {
+  "avatar": Object {
+    "alt": "alt",
+    "height": 64,
+    "src": "https://assets.tiltify.com/uploads/cause/avatar/35/blob-69ddc696-2034-4d43-b6e0-dc7049f035fe.png",
+    "width": 64,
+  },
+  "cause_id": "400f5687-6017-4d1a-a4d9-7c9166b984c2",
+  "currency_code": "USD",
+  "description": "ONE COMMUNITY. ONE VOICE. ONE CAUSE. Fallout For Hope was born in 2020 as a global charity initiative to mobilize an entire community of gamers worldwide to support the lifesaving mission of St. Jude Children's Research Hospital: Finding Cures. Saving Children.®
+
+- [LEARN MORE](https://falloutforhope.com/)
+- [WATCH THE STREAMS](https://www.twitch.tv/team/falloutforhope) 
+- [REGISTER FOR THE TEAM](https://falloutforhope.com/join/)
+- [FALLOUT FOR HOPE SHIRTS](https://www.designbyhumans.com/shop/stjudeplaylive/)",
+  "ends_at": "2023-01-09",
+  "goal": null,
+  "id": "178de1cb-e478-4820-9d74-aa120894063c",
+  "inserted_at": "2022-09-09T17:05:31Z",
+  "legacy_id": 163683,
+  "name": "Fallout for Hope 2022",
+  "published_at": "2022-09-09T17:12:59Z",
+  "retired_at": "2023-04-03T19:27:39Z",
+  "slug": "fallout-for-hope-2022",
+  "starts_at": null,
+  "status": "retired",
+  "total_amount_raised": Any<Object>,
+  "updated_at": "2023-04-03T19:27:39Z",
+  "url": "https://tiltify.com/st-jude-children-s-research-hospital/fallout-for-hope-2022",
+}
+`;
+
+exports[`cause tests - correct Tiltify cause fundraising events returned 14`] = `
+Object {
+  "avatar": Object {
+    "alt": "alt",
+    "height": 64,
+    "src": "https://assets.tiltify.com/uploads/cause/avatar/35/blob-69ddc696-2034-4d43-b6e0-dc7049f035fe.png",
+    "width": 64,
+  },
+  "cause_id": "400f5687-6017-4d1a-a4d9-7c9166b984c2",
+  "currency_code": "USD",
+  "description": "Whether you’re a sewing master, aspiring chef, painting extraordinaire, crafting expert, coding wizard, or dabble in any other creative field, you can support the kids of St. Jude during Creative Season! The sky is the limit, so put your creative skills on display and earn some exclusive prizes through December 31st.
+
+St. Jude has helped push the childhood cancer survival rate from less than 20% when we opened to 80% today. We won’t stop until no child dies from cancer.
+
+**Utilize our custom overlay tools, St. Jude Chatbot, and branded graphics to magnify your campaign by [accessing our toolkit here](https://playlive.experience.stjude.org/).​**",
+  "ends_at": "2023-01-02",
+  "goal": Object {
+    "currency": "USD",
+    "value": "100000",
+  },
+  "id": "405db104-86a7-4d1f-9ce6-f11864bda8dd",
+  "inserted_at": "2022-10-17T16:53:18Z",
+  "legacy_id": 168661,
+  "name": "St. Jude PLAY LIVE Creative Season 2022",
+  "published_at": "2022-10-19T20:43:35Z",
+  "retired_at": null,
+  "slug": "playlivecreative2022",
+  "starts_at": null,
+  "status": "published",
+  "total_amount_raised": Any<Object>,
+  "updated_at": "2023-01-03T16:21:45Z",
+  "url": "https://tiltify.com/st-jude-children-s-research-hospital/playlivecreative2022",
+}
+`;
+
+exports[`cause tests - correct Tiltify cause fundraising events returned 15`] = `
+Object {
+  "avatar": Object {
+    "alt": "alt",
+    "height": 64,
+    "src": "https://assets.tiltify.com/uploads/cause/avatar/35/blob-69ddc696-2034-4d43-b6e0-dc7049f035fe.png",
+    "width": 64,
+  },
+  "cause_id": "400f5687-6017-4d1a-a4d9-7c9166b984c2",
+  "currency_code": "USD",
+  "description": "Join DrLupo in his 5th annual Build Against Cancer holiday event as he raises money for the mission of St. Jude.
+
+New ways to give - learn more about requesting employer-matching gifts and donor-advised fund distributions and request credit be applied to a fundraising campaign here: www.stjude.org/tiltifycredit",
+  "ends_at": "2022-12-31",
+  "goal": Object {
+    "currency": "USD",
+    "value": "100000",
+  },
+  "id": "9f1b3297-198a-4947-bde3-78f5726a17a0",
+  "inserted_at": "2022-10-28T14:30:29Z",
+  "legacy_id": 170281,
+  "name": "Build Against Cancer 2022",
+  "published_at": "2022-10-28T14:39:11Z",
+  "retired_at": null,
+  "slug": "build-against-cancer-2022-dd6b4eb4-a0b6-41a5-9e93-7ec26a847678",
+  "starts_at": "2022-11-01",
+  "status": "published",
+  "total_amount_raised": Any<Object>,
+  "updated_at": "2022-11-28T19:49:13Z",
+  "url": "https://tiltify.com/st-jude-children-s-research-hospital/build-against-cancer-2022-dd6b4eb4-a0b6-41a5-9e93-7ec26a847678",
+}
+`;
+
+exports[`cause tests - correct Tiltify cause fundraising events returned 16`] = `
+Object {
+  "avatar": Object {
+    "alt": "alt",
+    "height": 64,
+    "src": "https://assets.tiltify.com/uploads/cause/avatar/35/blob-69ddc696-2034-4d43-b6e0-dc7049f035fe.png",
+    "width": 64,
+  },
+  "cause_id": "400f5687-6017-4d1a-a4d9-7c9166b984c2",
+  "currency_code": "USD",
+  "description": "Ever wished there was a way to turn your favorite board game, card game, or roleplaying game into a way to fundraise for the kids of St. Jude? Well now there is! With St. Jude Game Warp, you can select from a list of game effects to be triggered by your donations. Need to draw a card? Need to re-roll that dice? Need your opponent to re-roll their dice? All of that is possible with St. Jude Game Warp! And if you don't see an effect that you like, you can create your own! Plus, as you fundraise, you can earn unique rewards like game mats, deck boxes and more!",
+  "ends_at": "2023-12-31",
+  "goal": null,
+  "id": "92d17d45-b709-43ee-9730-a757a39fe32a",
+  "inserted_at": "2022-12-20T21:55:12Z",
+  "legacy_id": 180087,
+  "name": "St. Jude Game Warp",
+  "published_at": "2023-03-06T18:58:33Z",
+  "retired_at": null,
+  "slug": "st-jude-game-warp",
+  "starts_at": null,
+  "status": "published",
+  "total_amount_raised": Any<Object>,
+  "updated_at": "2023-03-06T18:58:33Z",
+  "url": "https://tiltify.com/st-jude-children-s-research-hospital/st-jude-game-warp",
+}
+`;
+
+exports[`cause tests - correct Tiltify cause fundraising events returned 17`] = `
+Object {
+  "avatar": Object {
+    "alt": "alt",
+    "height": 64,
+    "src": "https://assets.tiltify.com/uploads/fundraising_event/avatar/203129/blob-36a4e7ee-8188-438e-8f76-b9e454cc534b.png",
+    "width": 64,
+  },
+  "cause_id": "400f5687-6017-4d1a-a4d9-7c9166b984c2",
+  "currency_code": "USD",
+  "description": "Sign up to create your own campaign and start fundraising for St. Jude kids anytime.
+
+- St. Jude Children’s Research Hospital is leading the way the world understands, treats and defeats childhood cancer and other life-threatening diseases. Our mission is clear: Finding cures. Saving children. ®
+- Families never receive a bill from St. Jude for treatment, travel, housing or food – so they can focus on helping their child live.
+- Treatments invented at St. Jude have helped increase the overall childhood cancer survival rate from 20% to more than 80% since we opened more than 50 years ago. We won’t stop until no child dies from cancer.
+
+Connect with other fundraisers and access resources in our [Discord](https://discord.gg/stjudeplaylive).",
+  "ends_at": "2024-03-31",
+  "goal": Object {
+    "currency": "USD",
+    "value": "2000000",
+  },
+  "id": "0cd0fd43-e25d-4b8a-b01b-50c5352d50d6",
+  "inserted_at": "2023-03-20T16:40:43Z",
+  "legacy_id": 197119,
+  "name": "St. Jude PLAY LIVE 2023",
+  "published_at": "2023-04-01T04:54:55Z",
+  "retired_at": null,
+  "slug": "playlive2023",
+  "starts_at": "2023-04-01",
+  "status": "published",
+  "total_amount_raised": Any<Object>,
+  "updated_at": "2023-04-03T19:39:45Z",
+  "url": "https://tiltify.com/st-jude-children-s-research-hospital/playlive2023",
+}
+`;
+
+exports[`cause tests - correct Tiltify cause fundraising events returned 18`] = `
+Object {
+  "avatar": Object {
+    "alt": "alt",
+    "height": 64,
+    "src": "https://assets.tiltify.com/uploads/cause/avatar/35/blob-69ddc696-2034-4d43-b6e0-dc7049f035fe.png",
+    "width": 64,
+  },
+  "cause_id": "400f5687-6017-4d1a-a4d9-7c9166b984c2",
+  "currency_code": "USD",
+  "description": "ONE COMMUNITY. ONE VOICE. ONE CAUSE. Fallout For Hope was born in 2020 as a global charity initiative to mobilize an entire community of gamers worldwide to support the lifesaving mission of St. Jude Children's Research Hospital: Finding Cures. Saving Children.®
+
+- [LEARN MORE](https://falloutforhope.com/)
+- [WATCH THE STREAMS](https://www.twitch.tv/team/falloutforhope) 
+- [REGISTER FOR THE TEAM](https://falloutforhope.com/join/)",
+  "ends_at": "2024-01-08",
+  "goal": null,
+  "id": "6c4f9df8-af09-4bcd-84ae-d1a80606f93e",
+  "inserted_at": "2023-04-03T19:23:37Z",
+  "legacy_id": 198621,
+  "name": "Fallout for Hope 2023",
+  "published_at": "2023-04-03T19:28:06Z",
+  "retired_at": null,
+  "slug": "fallout-for-hope-2023",
+  "starts_at": null,
+  "status": "published",
+  "total_amount_raised": Any<Object>,
+  "updated_at": "2023-04-03T19:39:04Z",
+  "url": "https://tiltify.com/st-jude-children-s-research-hospital/fallout-for-hope-2023",
+}
+`;
+
+exports[`cause tests - correct Tiltify cause fundraising events returned 19`] = `
+Object {
+  "avatar": Object {
+    "alt": "alt",
+    "height": 64,
+    "src": "https://assets.tiltify.com/uploads/fundraising_event/avatar/211487/blob-54f4240d-0bac-4027-9fa5-0eef98becbb4.png",
+    "width": 64,
+  },
+  "cause_id": "400f5687-6017-4d1a-a4d9-7c9166b984c2",
+  "currency_code": "USD",
+  "description": null,
+  "ends_at": "2024-04-01",
+  "goal": null,
+  "id": "037dbc3a-ef11-4540-b966-e5104491e8a9",
+  "inserted_at": "2023-06-02T14:32:16Z",
+  "legacy_id": 205477,
+  "name": "GCX 2023",
+  "published_at": "2023-06-07T15:29:50Z",
+  "retired_at": null,
+  "slug": "gcx-2023",
+  "starts_at": "2023-06-19",
+  "status": "published",
+  "total_amount_raised": Any<Object>,
+  "updated_at": "2023-06-07T15:44:41Z",
+  "url": "https://tiltify.com/st-jude-children-s-research-hospital/gcx-2023",
+}
+`;
+
+exports[`cause tests - correct Tiltify cause returned 1`] = `
+Array [
+  Object {
+    "avatar": Object {
+      "alt": "alt",
+      "height": 64,
+      "src": "https://assets.tiltify.com/uploads/cause/avatar/35/blob-69ddc696-2034-4d43-b6e0-dc7049f035fe.png",
+      "width": 64,
+    },
+    "contact": Object {
+      "address_line1": "262 DANNY THOMAS PL MSC 512, MEMPHIS, 38105-3678, US",
+      "address_line2": null,
+      "city": "Memphis",
+      "country": "United States",
+      "email": "playlive@stjude.org",
+      "postal_code": "38105",
+      "region": "Tennessee",
+    },
+    "currency_code": "USD",
+    "description": "- St. Jude Children’s Research Hospital is leading the way the world understands, treats and defeats childhood cancer and other life-threatening diseases. Our mission is clear: Finding cures. Saving children.®
+- Families never receive a bill from St. Jude for treatment, travel, housing or food – so they can focus on helping their child live.
+- Treatments invented at St. Jude have helped increase the overall childhood cancer survival rate from 20% to more than 80% since we opened more than 50 years ago. We won’t stop until no child dies from cancer.
+- St. Jude shares the breakthroughs it makes, and every child saved at St. Jude means doctors and scientists worldwide can use that knowledge to save thousands more children.
+- Unlike other hospitals, the majority of funding for St. Jude comes from generous donors.",
+    "government_id": "35-1044585",
+    "id": "400f5687-6017-4d1a-a4d9-7c9166b984c2",
+    "inserted_at": "2015-09-04T00:56:00Z",
+    "legacy_id": 35,
+    "name": "St. Jude Children's Research Hospital",
+    "short_description": "Unite with gamers and content creators for St. Jude PLAY LIVE to help end childhood cancer.",
+    "slug": "st-jude-children-s-research-hospital",
+    "social": Object {
+      "discord": "https://discord.gg/stjudeplaylive",
+      "facebook": "stjude",
+      "instagram": "stjudeplaylive",
+      "snapchat": null,
+      "tiktok": null,
+      "twitch": null,
+      "twitter": "stjudeplaylive",
+      "website": "www.stjude.org",
+      "youtube": "stjude",
+    },
+    "updated_at": "2023-02-07T18:21:52Z",
+  },
+]
+`;
